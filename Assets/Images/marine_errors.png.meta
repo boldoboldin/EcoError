@@ -139,12 +139,12 @@ TextureImporter:
       name: marine_errors_1
       rect:
         serializedVersion: 2
-        x: 1163
-        y: 1901
-        width: 490
-        height: 436
+        x: 64
+        y: 676
+        width: 325
+        height: 410
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -157,36 +157,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: marine_errors_2
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 1838
-        width: 176
-        height: 238
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9b529260bf04d247a76e17cdedf64fc
-      internalID: -1421144408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: marine_errors_3
       rect:
         serializedVersion: 2
-        x: 859
-        y: 1248
-        width: 307
-        height: 676
+        x: 438
+        y: 656
+        width: 287
+        height: 438
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -199,78 +178,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: marine_errors_4
-      rect:
-        serializedVersion: 2
-        x: 454
-        y: 156
-        width: 615
-        height: 943
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 921077deb30b0e441aecf9bfacd75531
-      internalID: 1970380353
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: marine_errors_5
-      rect:
-        serializedVersion: 2
-        x: 116
-        y: 981
-        width: 515
-        height: 856
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef192bc7ac7c5fb4db0f5ee094f1a755
-      internalID: -799323580
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: marine_errors_6
-      rect:
-        serializedVersion: 2
-        x: 1310
-        y: 961
-        width: 305
-        height: 567
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2847d7cd63b13340888abf202b895bd
-      internalID: 1874407385
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: marine_errors_10
       rect:
         serializedVersion: 2
-        x: 1196
-        y: 458
-        width: 439
-        height: 283
+        x: 799
+        y: 720
+        width: 574
+        height: 309
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -286,12 +202,12 @@ TextureImporter:
       name: marine_errors_11
       rect:
         serializedVersion: 2
-        x: 1248
-        y: 23
-        width: 405
-        height: 325
+        x: 1726
+        y: 698
+        width: 684
+        height: 310
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -299,6 +215,90 @@ TextureImporter:
       bones: []
       spriteID: 0ebfe103b72a9d241a458e89558f6f38
       internalID: -1942852557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marine_errors_21
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 738
+        width: 235
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e51125737c9d1b4cac9b9173bdb08b4
+      internalID: 406484888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marine_errors_41
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 14
+        width: 948
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7cf035123d3c44d8ff8277379fa332
+      internalID: 912370149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marine_errors_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 445
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543298abf70c60a489dc1c1133674eec
+      internalID: -1912094763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marine_errors_45
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 36
+        width: 854
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec2c8db4f45ae7488aeddac355c70e8
+      internalID: 443053005
       vertices: []
       indices: 
       edges: []
@@ -319,10 +319,48 @@ TextureImporter:
       marine_errors_10: 33988206
       marine_errors_11: -1942852557
       marine_errors_12: 1539820345
+      marine_errors_13: 1809252556
+      marine_errors_14: -1622840561
+      marine_errors_15: 1228706668
+      marine_errors_16: 1480393881
+      marine_errors_17: -1302642655
+      marine_errors_18: 1459289623
+      marine_errors_19: -1337627315
       marine_errors_2: -1421144408
+      marine_errors_20: 728558899
+      marine_errors_21: 406484888
+      marine_errors_22: 1046878398
+      marine_errors_23: 883845871
+      marine_errors_24: 206279035
+      marine_errors_25: -1373909068
+      marine_errors_26: 165454177
+      marine_errors_27: 1916616245
+      marine_errors_28: 464471345
+      marine_errors_29: -1289998321
       marine_errors_3: 1025606290
+      marine_errors_30: 518027806
+      marine_errors_31: -1861825629
+      marine_errors_32: -207464981
+      marine_errors_33: 632460326
+      marine_errors_34: 792646993
+      marine_errors_35: 1531581717
+      marine_errors_36: -1921227803
+      marine_errors_37: 372862560
+      marine_errors_38: -851403833
+      marine_errors_39: 1861330329
       marine_errors_4: 1970380353
+      marine_errors_40: -1380538977
+      marine_errors_41: 912370149
+      marine_errors_42: 27784362
+      marine_errors_43: -1299506051
+      marine_errors_44: -1912094763
+      marine_errors_45: 443053005
+      marine_errors_46: 1464222559
+      marine_errors_47: -1104860624
+      marine_errors_48: 786615703
+      marine_errors_49: -2010886086
       marine_errors_5: -799323580
+      marine_errors_50: -657519563
       marine_errors_6: 1874407385
       marine_errors_7: 115942615
       marine_errors_8: -253335490

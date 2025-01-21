@@ -4,38 +4,15 @@ using UnityEngine;
 
 public class ObjectFound : MonoBehaviour
 {
-    [SerializeField] int attempts;
-
-    void Update()
+    [SerializeField] Counter counter;
+    [SerializeField] SFX_Player sfxPlayer;
+    
+    void OnMouseDown()
     {
-        if (Input.GetMouseButtonDown(0))
-        {
-            Seek();
+        gameObject.SetActive(false);
 
-            if (attempts <= 0)
-            {
-                
-            }
-        }
+        
+        counter.ErroEncontrado();
+        sfxPlayer.PlayRandomPopSFX();
     }
-
-    private void Seek()
-    {
-        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-
-        RaycastHit hit;
-
-        if (Physics.Raycast(ray, out hit, Mathf.Infinity))
-        {
-            if (hit.collider.gameObject.tag == "Error")
-            {
-                Destroy(gameObject);
-            }
-            else
-            {
-                attempts = attempts - 1;
-            }
-        }
-    }
-
 }
